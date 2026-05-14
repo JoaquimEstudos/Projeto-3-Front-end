@@ -1,8 +1,8 @@
 :root{
-    --color1:#f0f0f0;
-    --color2:#FFA500;
-    --color3:#800080;
-    --color4:#3ae4b1;
+    --color1:rgb(255, 38, 0);
+    --color2:rgb(236, 0, 0);
+    --color3:rgb(6, 21, 53);
+    --color4:rgb(2, 7, 78);
     --fontFamily:"Cascadia Code",sans-serif;
     /* --colorLinear:linear-gradient(#3ae4b1,#c13af2,#FFDAB9); */
     --colorLinear:linear-gradient(purple,aqua);
